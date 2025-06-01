@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DevIndicatorMod",
+  "name": "TAGameFrontEnd",
+  "description": "FrontEnd MoonWay for TAGame",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["finderfail"],
+  "credits": "Kriloud Solutions",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
